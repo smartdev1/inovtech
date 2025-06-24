@@ -147,17 +147,17 @@
               <div class="space-y-4">
                 <div class="flex items-center">
                   <PhoneIcon class="w-5 h-5 text-primary mr-3" />
-                  <span class="text-dark-700">+33 1 23 45 67 89</span>
+                  <span class="text-dark-700">+1 (613) 400-1984</span>
                 </div>
                 <div class="flex items-center">
                   <EnvelopeIcon class="w-5 h-5 text-primary mr-3" />
-                  <span class="text-dark-700">contact@InovTech.fr</span>
+                  <span class="text-dark-700">contact@inovtech.ci</span>
                 </div>
                 <div class="flex items-start">
                   <MapPinIcon class="w-5 h-5 text-primary mr-3 mt-1" />
                   <span class="text-dark-700">
-                    123 Avenue des Champs-Élysées<br>
-                    75008 Paris, France
+                    Ottawa<br>
+                    Canada
                   </span>
                 </div>
               </div>
